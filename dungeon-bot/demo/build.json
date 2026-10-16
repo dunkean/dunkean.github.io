@@ -1,0 +1,12 @@
+{
+  "preview": "DungeonBot static interface demo",
+  "fictional_data": true,
+  "backend_connections": false,
+  "source_repository": "dunkean/dungeon-bot",
+  "source_commit": "fdf3bccb259ab7b54057f5d0bd577e4a5b058722",
+  "sha256": {
+    "index.html": "635e3a267e9a666ce26d1801800fb27cf1ae5c4b307cc0d19998e9d1ab69da24",
+    "style.css": "dcc2dfd4adbdda091e97cacc0280e5109b3025b55d39cdf1cb9f63cb1cd0c8a8",
+    "app.js": "fb5c2a6a0b48d8c5fe99ba532fbdecf647e4719142d76be9d821032767281636"
+  }
+}
